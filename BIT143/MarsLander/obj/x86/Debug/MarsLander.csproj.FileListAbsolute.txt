@@ -1,0 +1,16 @@
+C:\Users\10235\Desktop\控制台\Starter_Project\MarsLander\bin\Debug\MarsLander.exe
+C:\Users\10235\Desktop\控制台\Starter_Project\MarsLander\bin\Debug\MarsLander.pdb
+C:\Users\10235\Desktop\控制台\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.csprojAssemblyReference.cache
+C:\Users\10235\Desktop\控制台\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.csproj.CoreCompileInputs.cache
+C:\Users\10235\Desktop\控制台\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.exe
+C:\Users\10235\Desktop\控制台\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.pdb
+C:\Users\Cat\Desktop\143\Starter_Project\Starter_Project\MarsLander\bin\Debug\MarsLander.exe
+C:\Users\Cat\Desktop\143\Starter_Project\Starter_Project\MarsLander\bin\Debug\MarsLander.pdb
+C:\Users\Cat\Desktop\143\Starter_Project\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.csprojAssemblyReference.cache
+C:\Users\Cat\Desktop\143\Starter_Project\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.exe
+C:\Users\Cat\Desktop\143\Starter_Project\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.pdb
+C:\Users\Cat\Desktop\143\Starter_Project3.0\Starter_Project\MarsLander\bin\Debug\MarsLander.exe
+C:\Users\Cat\Desktop\143\Starter_Project3.0\Starter_Project\MarsLander\bin\Debug\MarsLander.pdb
+C:\Users\Cat\Desktop\143\Starter_Project3.0\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.csprojAssemblyReference.cache
+C:\Users\Cat\Desktop\143\Starter_Project3.0\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.exe
+C:\Users\Cat\Desktop\143\Starter_Project3.0\Starter_Project\MarsLander\obj\x86\Debug\MarsLander.pdb

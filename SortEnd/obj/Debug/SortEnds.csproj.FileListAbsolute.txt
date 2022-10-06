@@ -1,0 +1,11 @@
+C:\Users\10235\Desktop\控制台\Console_StarterProject\Console_StarterProject\bin\Debug\Helpdesk.exe
+C:\Users\10235\Desktop\控制台\Console_StarterProject\Console_StarterProject\bin\Debug\Helpdesk.pdb
+C:\Users\10235\Desktop\控制台\Console_StarterProject\Console_StarterProject\obj\Debug\SortEnds.csprojAssemblyReference.cache
+C:\Users\10235\Desktop\控制台\Console_StarterProject\Console_StarterProject\obj\Debug\SortEnds.csproj.CoreCompileInputs.cache
+C:\Users\10235\Desktop\控制台\Console_StarterProject\Console_StarterProject\obj\Debug\Helpdesk.exe
+C:\Users\10235\Desktop\控制台\Console_StarterProject\Console_StarterProject\obj\Debug\Helpdesk.pdb
+C:\Users\Cat\Desktop\143\Console_StarterProject\Console_StarterProject\Console_StarterProject\bin\Debug\Helpdesk.exe
+C:\Users\Cat\Desktop\143\Console_StarterProject\Console_StarterProject\Console_StarterProject\bin\Debug\Helpdesk.pdb
+C:\Users\Cat\Desktop\143\Console_StarterProject\Console_StarterProject\Console_StarterProject\obj\Debug\SortEnds.csprojAssemblyReference.cache
+C:\Users\Cat\Desktop\143\Console_StarterProject\Console_StarterProject\Console_StarterProject\obj\Debug\Helpdesk.exe
+C:\Users\Cat\Desktop\143\Console_StarterProject\Console_StarterProject\Console_StarterProject\obj\Debug\Helpdesk.pdb

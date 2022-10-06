@@ -1,0 +1,7 @@
+C:\Users\10235\Desktop\控制台\MulitList_Starter\MulitList_Starter\bin\Debug\MulitList_Starter.exe.config
+C:\Users\10235\Desktop\控制台\MulitList_Starter\MulitList_Starter\bin\Debug\MulitList_Starter.exe
+C:\Users\10235\Desktop\控制台\MulitList_Starter\MulitList_Starter\bin\Debug\MulitList_Starter.pdb
+C:\Users\10235\Desktop\控制台\MulitList_Starter\MulitList_Starter\obj\Debug\MulitList_Starter.csprojAssemblyReference.cache
+C:\Users\10235\Desktop\控制台\MulitList_Starter\MulitList_Starter\obj\Debug\MulitList_Starter.csproj.CoreCompileInputs.cache
+C:\Users\10235\Desktop\控制台\MulitList_Starter\MulitList_Starter\obj\Debug\MulitList_Starter.exe
+C:\Users\10235\Desktop\控制台\MulitList_Starter\MulitList_Starter\obj\Debug\MulitList_Starter.pdb
